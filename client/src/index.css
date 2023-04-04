@@ -63,7 +63,7 @@ body {
 }
 .save-button:hover {
   background-color: green;
-  color: white;
+  color: rgb(185, 84, 84);
 }
 
 .home-button {
